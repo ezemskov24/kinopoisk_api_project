@@ -16,7 +16,6 @@
 
 ### Файлы и дерриктории
 - server - директория с серверной частью приложения. Здесь находятся все API-эндпоинты, модели данных и логика обработки запросов.
-- tests - директория с тестами серверной части.
 - .env.template - шаблон переменных окружения.
 - docker-compose.yaml - настройки docker-compose.
 - requirements.txt - зависимости Python.
@@ -28,7 +27,7 @@
 Склонировать проект:
 
 ```
-git clone https://gitlab.skillbox.ru/egor_zemskov/python_advanced_diploma.git
+git clone https://github.com/ezemskov24/kinopoisk_api_project.git
 ```
 В репозитории хранится файл .env.template. Надо на его основе создать и заполнить файл .env 
 
